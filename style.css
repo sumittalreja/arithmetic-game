@@ -1,0 +1,23 @@
+body {
+	background-color: purple;
+}
+#top {
+	padding-top :5px;
+
+	
+}
+	#problem {
+	font-size: 20px;
+	
+	
+}
+
+button {
+	background-color: yellow;
+	font-size: 10px;
+	color: green;
+	margin: 3px;
+	
+}
+
+
